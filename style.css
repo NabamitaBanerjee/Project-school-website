@@ -1,25 +1,16 @@
-#contact iframe
-{
+#video{
     width: 100%;
+    height: 500px;
+    border: none;
+    bottom: 0;
 }
-.travelmaindiv {
-    border: 1px;
+.my_nav_bar {
+    position: sticky;
+    top: 0;
 }
-.travelmaindiv img{
-    width: 100px;
+.book {
+    margin-bottom: 20px;
 }
-.travelmaindiv h5, .travelmaindiv p {
-    margin: 20px;
-}
-.movie_head {
-    font-size: 20px;
-    padding: 6px 22px;
-    border-radius: 10px;
-    margin-bottom: 15px;
-}
-.movie_head i {
-    float: right;
-}
-.movie_text span{
-    color: orange;
+#contact iframe {
+    width: 100%;
 }
